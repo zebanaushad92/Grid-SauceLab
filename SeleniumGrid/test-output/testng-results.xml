@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sauce Las Test automtion regression suite" duration-ms="138068" started-at="2021-06-15T01:18:10 IST" finished-at="2021-06-15T01:20:28 IST">
+    <groups>
+    </groups>
+    <test name="Sauce Test - FF" duration-ms="137994" started-at="2021-06-15T01:18:10 IST" finished-at="2021-06-15T01:20:28 IST">
+      <class name="com.tcs.testLayer.SauceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.tcs.testLayer.SauceTest@587d1d39]" name="setUp" is-config="true" duration-ms="8699" started-at="2021-06-15T01:18:10 IST" finished-at="2021-06-15T01:18:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[91.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.tcs.testLayer.SauceTest.checkAddToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkAddToCart()[pri:0, instance:com.tcs.testLayer.SauceTest@587d1d39]" name="checkAddToCart" duration-ms="5626" started-at="2021-06-15T01:18:19 IST" finished-at="2021-06-15T01:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tcs.testLayer.SauceTest@587d1d39]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-15T01:18:24 IST" finished-at="2021-06-15T01:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.tcs.testLayer.SauceTest@587d1d39]" name="setUp" is-config="true" duration-ms="98365" started-at="2021-06-15T01:18:24 IST" finished-at="2021-06-15T01:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[91.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.tcs.testLayer.SauceTest.checkInventoryItem()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkInventoryItem()[pri:0, instance:com.tcs.testLayer.SauceTest@587d1d39]" name="checkInventoryItem" duration-ms="25222" started-at="2021-06-15T01:20:03 IST" finished-at="2021-06-15T01:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tcs.testLayer.SauceTest@587d1d39]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-15T01:20:28 IST" finished-at="2021-06-15T01:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tcs.testLayer.SauceTest -->
+    </test> <!-- Sauce Test - FF -->
+    <test name="Sauce Test - Chrome" duration-ms="138068" started-at="2021-06-15T01:18:10 IST" finished-at="2021-06-15T01:20:28 IST">
+      <class name="com.tcs.testLayer.SauceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.tcs.testLayer.SauceTest@1fc2b765]" name="setUp" is-config="true" duration-ms="8701" started-at="2021-06-15T01:18:10 IST" finished-at="2021-06-15T01:18:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[91.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.tcs.testLayer.SauceTest.checkAddToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkAddToCart()[pri:0, instance:com.tcs.testLayer.SauceTest@1fc2b765]" name="checkAddToCart" duration-ms="5110" started-at="2021-06-15T01:18:19 IST" finished-at="2021-06-15T01:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tcs.testLayer.SauceTest@1fc2b765]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-06-15T01:18:24 IST" finished-at="2021-06-15T01:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.tcs.testLayer.SauceTest@1fc2b765]" name="setUp" is-config="true" duration-ms="98893" started-at="2021-06-15T01:18:24 IST" finished-at="2021-06-15T01:20:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[91.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.tcs.testLayer.SauceTest.checkInventoryItem()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkInventoryItem()[pri:0, instance:com.tcs.testLayer.SauceTest@1fc2b765]" name="checkInventoryItem" duration-ms="25284" started-at="2021-06-15T01:20:03 IST" finished-at="2021-06-15T01:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tcs.testLayer.SauceTest@1fc2b765]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-06-15T01:20:28 IST" finished-at="2021-06-15T01:20:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tcs.testLayer.SauceTest -->
+    </test> <!-- Sauce Test - Chrome -->
+  </suite> <!-- Sauce Las Test automtion regression suite -->
+</testng-results>

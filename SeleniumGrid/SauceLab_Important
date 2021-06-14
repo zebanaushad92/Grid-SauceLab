@@ -1,0 +1,19 @@
+
+Important URL:
+1)Code :
+a)Sauce labs : 
+https://github.com/saucelabs-training/demo-java/blob/master/selenium-testng-best-practice/src/test/java/com/saucedemo/LoginFeatureTest.java
+b)Naveen Automation : 
+https://github.com/naveenanimation20/SeleniumWithSauceLabsBrowserStackLambdaTest/blob/master/src/test/java/com/mytests/BaseTest.java
+
+2)Values on the bases of key value (browser,version,platform)
+https://wiki.saucelabs.com/display/DOCS/Test+Configuration+Options
+
+3)Configuration snippet : 
+https://saucelabs.com/platform/platform-configurator#/
+
+4)Youtube Videos:
+https://youtu.be/Q3JrBokM4FQ
+https://youtu.be/CEwCt5FSx-U
+https://youtu.be/3_adoVYhyBQ
+https://youtu.be/RoGbMH3w5e8
